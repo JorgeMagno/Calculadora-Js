@@ -1,6 +1,6 @@
 <h1 align="center">Calculadora-JS</h1>
 
-<p align="center">Projeto de uma calculadora desenvolvida a partir da [Mentoria 5](https://www.youtube.com/watch?v=NRfn_y7mSl0&ab_channel=DigitalInnovationOne2) no Bootcamp da Take Blip na DIO.</p>
+Projeto de uma calculadora desenvolvida a partir da [Mentoria 5](https://www.youtube.com/watch?v=NRfn_y7mSl0&ab_channel=DigitalInnovationOne2/) no Bootcamp da Take Blip na DIO.
 
 ### Status
 <h4 align="center"> 
