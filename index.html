@@ -11,7 +11,8 @@
     <h1>Calculadora</h1>
     <main class="calculadora">
       <div class="display">
-        <button type="button" class="apagar" onclick="clearAll()">Apagar</button>
+        <button class="button apagar" onclick="clearAll()">Apagar</button>
+        <button class="button igual" value="=" onclick="result()">=</button>
         <input value="" type="text" name="display" id="display" disabled />
       </div>
       <div class="buttons">
@@ -39,7 +40,7 @@
           <button class="button" value="0" onclick="showDisplay(0)">0</button>
           <button class="button" value="." onclick="showDisplay('.')">.</button>
           <button class="button" value="/" onclick="showDisplay('/')">/</button>
-          <button class="button igual" value="=" onclick="result()">=</button>
+          <button class="button" value="**" onclick="showDisplay('**')">pot</button>
         </section>
       </div>
     </main>
