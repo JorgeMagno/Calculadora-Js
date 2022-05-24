@@ -12,7 +12,7 @@ function clearAll() {
 }
 
 function result() {
-    let y = eval(display.value);
+    let y = eval(display.value).toFixed(2);
     display.value = y;
     if (display.value == "undefined") {
         display.value = '';
