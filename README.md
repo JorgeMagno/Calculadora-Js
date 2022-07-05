@@ -4,7 +4,7 @@ Projeto de uma calculadora desenvolvida a partir da [Mentoria 5](https://www.you
 
 ### Status
 <h4 align="center"> 
-	:ok: Desenvolvendo :ok:
+	:ok: Finalizado :ok:
 </h4>
 
 ### Pré-requisitos
@@ -16,6 +16,7 @@ Projeto de uma calculadora desenvolvida a partir da [Mentoria 5](https://www.you
 - (-) Subtração.
 - (*) Multiplicação.
 - (/) Divisão.
+- (pot) Potência.
 
 ### 🛠 Tecnologias
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />
